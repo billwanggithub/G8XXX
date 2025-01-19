@@ -1,8 +1,8 @@
 ﻿{
-  "version": "1.0.9150.13333",
+  "version": "1.0.9150.13338",
   "url": "https://gitee.com/billwang168/gxxxx.git",
   "releaseUrl": "https://gitee.com/billwang168/gxxxx/releases",
-  "downloadPath":"https://gitee.com/billwang168/gxxxx/releases/download/V1.0.9150.13333/GmtTestTool_1.0.9150.13333.7z",
+  "downloadPath":"https://gitee.com/billwang168/gxxxx/releases/download/V1.0.9150.13338/GmtTestTool_1.0.9150.13338.7z",
   "changelog": "修复了一些Bug,优化了性能。",
   "mandatory": false,
   "firmware":"24121900"
