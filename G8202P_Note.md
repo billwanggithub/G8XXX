@@ -1,0 +1,6 @@
+# G8202P Note
+
+## FPGA
+
+SCL:AB14
+SDA:AA14
