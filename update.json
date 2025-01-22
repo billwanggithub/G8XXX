@@ -1,7 +1,5 @@
 ﻿{
-  "version": "1.0.9153.13635",
-  "url": "https://gitee.com/billwang168/gxxxx.git",
-  "releaseUrl": "https://gitee.com/billwang168/gxxxx/releases",  
+  "version": "1.0.9153.13635", 
   "changelog": "修复了一些Bug,优化了性能。",
   "mandatory": false,
   "firmware":"24121900"
