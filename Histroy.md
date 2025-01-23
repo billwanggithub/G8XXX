@@ -3,7 +3,7 @@
 - V1.0.9154.13653`250123`
 `FW:24121900`
   - Fix IsAutoWrite = false, Field not Updated
-  - Add 0xF2,0XF3
+  - [GXXXX]Add 0xF2,0XF3
 
 - V1.0.9154.13647`250123`
 `FW:24121900`
