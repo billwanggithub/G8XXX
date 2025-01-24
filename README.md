@@ -9,3 +9,6 @@ GMT GXXXX GUI Tool
 ![main_function](assets/main_function.png)
 
 ![update_app](assets/update_app.png)
+
+Feel free to ping us for questions:
+ [bill.wang@gmt.com.tw](mailto:bill.wang@gmt.com.tw)
