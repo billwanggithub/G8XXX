@@ -1,9 +1,13 @@
 # Histroy
 
+- V1.0.9154.13659`250123`
+`FW:24121900`
+  -[G8200]Fix RegObjectModel R/W
+
 - V1.0.9154.13653`250123`
 `FW:24121900`
   - Fix IsAutoWrite = false, Field not Updated
-  - [GXXXX]Add 0xF2,0XF3
+  - [G8200P]Add 0xF2,0XF3
 
 - V1.0.9154.13647`250123`
 `FW:24121900`
