@@ -1,5 +1,9 @@
 # Histroy
 
+- V1.0.9167.14075`25020ㄓ`
+`FW:24121900`
+  -[G82XX]Update Test ADC for FPGA
+
 - V1.0.9166.14031`250204`
 `FW:24121900`
   -[G8202P]Update Registers
