@@ -1,5 +1,9 @@
 # Histroy
 
+- V1.0.9167.14076`250205`
+`FW:24121900`
+- [G82XX]Fix I2C read not overwrite GUI bug
+
 - V1.0.9167.14075`250205`
 `FW:24121900`
   -[G82XX]Update Test ADC for FPGA
