@@ -1,5 +1,10 @@
 # Histroy
 
+- V1.0.9167.14126`250205`
+`FW:24121900`
+- [G8202P]Add Fault Flags group
+- [G8202P]Add Bypass Flags group
+
 - V1.0.9167.14076`250205`
 `FW:24121900`
 - [G82XX]Fix I2C read not overwrite GUI bug
