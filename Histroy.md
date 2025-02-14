@@ -1,5 +1,10 @@
 # Histroy
 
+- V1.0.9176.14246`250214`
+`FW:24121900`
+  - update load/save as json
+  - update G8202L GUI  
+
 - V1.0.9167.14127`250205`
 `FW:24121900`
 - [G8202P]Add Fault Flags group
