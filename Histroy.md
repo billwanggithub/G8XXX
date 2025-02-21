@@ -1,5 +1,9 @@
 # Histroy
 
+- V1.0.9183.14318`250214`
+`FW:24121900`
+  - Fix ADC Test Bug
+  - Fix Write Register log
 - V1.0.9176.14246`250214`
 `FW:24121900`
   - update load/save as json
