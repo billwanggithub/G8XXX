@@ -1,9 +1,10 @@
 # Histroy
 
-- V1.0.9183.14320`250214`
+- V1.0.9183.14320`250221`
 `FW:24121900`
   - fix error counter log error
-- V1.0.9183.14318`250214`
+  
+- V1.0.9183.14318`250221`
 `FW:24121900`
   - Fix ADC Test Bug
   - Fix Write Register log
