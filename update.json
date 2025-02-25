@@ -1,5 +1,5 @@
 ﻿{
-  "version": "V1.0.9186.14341",
+  "version": "1.0.9187.14342",
   "changelog": "修复了一些Bug,优化了性能。",
   "mandatory": false,
   "firmware":"24121900"

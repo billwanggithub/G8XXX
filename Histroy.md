@@ -1,9 +1,10 @@
 # Histroy
 
-- V1.0.9186.14341`250224`
+- V1.0.9187.14342`250225`
 `FW:24121900`
-  - Update GPIO layout. PA15=>PA6
+  - Update GPIO layout. PA15 => PA6
   - Update GPIO Layout. PB3 => PA7
+  - Update GPIO Layout. PB6 => PA2
 
 - V1.0.9183.14320`250221`
 `FW:24121900`
