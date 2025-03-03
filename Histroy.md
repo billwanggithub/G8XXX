@@ -1,5 +1,10 @@
 # Histroy
 
+- V1.0.9193.14454`250227`
+`FW:24121900`
+  - Update G8202L register as G8202L - 250226.docx
+  - Update new pattern generator
+
 - V1.0.9188.14352`250227`
 `FW:24121900`
   - Update G8202L GUI
