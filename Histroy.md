@@ -1,6 +1,10 @@
 # Histroy
 
-- V1.0.9193.14454`250227`
+- V1.0.9193.14454`250303`
+`FW:24121900`
+  - Add G8202L Backdoor registers
+
+- V1.0.9193.14454`250303`
 `FW:24121900`
   - Update G8202L register as G8202L - 250226.docx
   - Update new pattern generator
