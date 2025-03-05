@@ -1,5 +1,11 @@
 # Histroy
 
+- V1.0.9195.14481`250305`
+`FW:24121900`
+  - G8202L
+    - fix pattern generator GCLK duty
+    - Add G8202L Backdoor registers
+
 - V1.0.9193.14454`250303`
 `FW:24121900`
   - Add G8202L Backdoor registers
