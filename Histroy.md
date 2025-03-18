@@ -1,5 +1,12 @@
 # Histroy
 
+- V1.0.9208.14787`250318`
+`FW:25031800`
+  - G8202L
+    - Fix G8202L register
+    - Add G8202L backdoor
+    - update registers
+
 - V1.0.9195.14481`250305`
 `FW:24121900`
   - G8202L
