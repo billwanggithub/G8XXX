@@ -1,5 +1,11 @@
 # Histroy
 
+- V1.0.9211.14826`250321`
+`FW:25031800`
+  - [G8202L]
+    - Update G8202L pattern generator
+      - add STV, RSTI2
+
 - V1.0.9209.14805`250319`
 `FW:25031800`
   - [G8202L]
