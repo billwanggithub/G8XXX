@@ -2,5 +2,6 @@
   "version": "1.0.9217.14938",
   "changelog": "修复了一些Bug,优化了性能。",
   "mandatory": false,
-  "firmware":"25031800"
+  "firmware1":"25031800",
+  "firmware2":"25032700"
 }
