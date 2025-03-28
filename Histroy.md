@@ -1,8 +1,9 @@
 # Histroy
 
-- V1.0.9218.15013`250327`
+- V1.0.9218.14966`250328`
 `FW_MAIN:25031800`
 `FW_PATTERN_GEN:PATTERN_GEN:25032700`
+  - Fix G8202L register 0x01,0x05 ItemList
   - Fix G8202L pattern generator mode binding problem
 
 - V1.0.9217.14938`250327`
