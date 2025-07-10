@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.0.9218.14966",
+  "version": "1.1.9322.18151",
   "changelog": "修复了一些Bug,优化了性能。",
   "mandatory": false,
-  "firmware1":"25031800",
-  "firmware2":"25032700"
+  "firmware1":"25070900",
+  "firmware2":"25062400"
 }

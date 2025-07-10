@@ -1,5 +1,12 @@
 # Histroy
 
+- V1.1.9322.18151`250710`
+`FW_MAIN:25070900`
+`FW_PATTERN_GEN:PATTERN_GEN:25062400`
+  - [G8202L]
+    - Hide FGPA/Pattern  
+    - Update I2C Address to 0x72
+    - Update Register table
 - V1.0.9218.14966`250328`
 `FW_MAIN:25031800`
 `FW_PATTERN_GEN:PATTERN_GEN:25032700`
